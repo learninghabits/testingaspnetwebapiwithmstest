@@ -65,6 +65,9 @@
       <Name>testing asp web api with mstest</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="notes.txt" />
+  </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">
       <ItemGroup>

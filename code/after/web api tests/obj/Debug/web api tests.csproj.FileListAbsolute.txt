@@ -1,0 +1,13 @@
+C:\programming\learninghabits_material\24 - Testing ASP.NET Web API With MsTest\testing asp web api with mstest\code\after\web api tests\obj\Debug\web api tests.csprojResolveAssemblyReference.cache
+C:\programming\learninghabits_material\24 - Testing ASP.NET Web API With MsTest\testing asp web api with mstest\code\after\web api tests\bin\Debug\web api tests.dll
+C:\programming\learninghabits_material\24 - Testing ASP.NET Web API With MsTest\testing asp web api with mstest\code\after\web api tests\bin\Debug\web api tests.pdb
+C:\programming\learninghabits_material\24 - Testing ASP.NET Web API With MsTest\testing asp web api with mstest\code\after\web api tests\bin\Debug\testing_asp_web_api_mstest.dll
+C:\programming\learninghabits_material\24 - Testing ASP.NET Web API With MsTest\testing asp web api with mstest\code\after\web api tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\programming\learninghabits_material\24 - Testing ASP.NET Web API With MsTest\testing asp web api with mstest\code\after\web api tests\bin\Debug\Newtonsoft.Json.dll
+C:\programming\learninghabits_material\24 - Testing ASP.NET Web API With MsTest\testing asp web api with mstest\code\after\web api tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\programming\learninghabits_material\24 - Testing ASP.NET Web API With MsTest\testing asp web api with mstest\code\after\web api tests\bin\Debug\testing_asp_web_api_mstest.pdb
+C:\programming\learninghabits_material\24 - Testing ASP.NET Web API With MsTest\testing asp web api with mstest\code\after\web api tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\programming\learninghabits_material\24 - Testing ASP.NET Web API With MsTest\testing asp web api with mstest\code\after\web api tests\bin\Debug\Newtonsoft.Json.xml
+C:\programming\learninghabits_material\24 - Testing ASP.NET Web API With MsTest\testing asp web api with mstest\code\after\web api tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\programming\learninghabits_material\24 - Testing ASP.NET Web API With MsTest\testing asp web api with mstest\code\after\web api tests\obj\Debug\web api tests.dll
+C:\programming\learninghabits_material\24 - Testing ASP.NET Web API With MsTest\testing asp web api with mstest\code\after\web api tests\obj\Debug\web api tests.pdb
